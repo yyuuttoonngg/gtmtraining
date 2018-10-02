@@ -1,0 +1,3 @@
+For porgramming part of the test, each question's JavaScript file is named under question's number. All the files are linked to the same test.js file, using Mocha and Chai to test.
+For question 3 makeHtml, if the value of 'label' contains "", it will break the string templating. 
+For question 5 CSSSelector, I tested the result by using console.log in the DOM (code commented out as in question5.js file). No Mocha tests were included for this question.
